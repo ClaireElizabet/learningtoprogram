@@ -1,0 +1,22 @@
+/* This is a CSS comment.*/
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.app {
+  display: flex;
+  flex-direction: row;
+}
+.screenshot {
+  max-width: 460px
+}
+.description {
+  max-width: 705px
+}
+
+/*s
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
